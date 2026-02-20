@@ -14,6 +14,8 @@ The focus of these resources is on Agentic AI, autonomous software engineering, 
     *   A breakdown of the McKinsey interview with Nathaniel Whittemore (Founder & CEO of Superintelligent) regarding the enterprise "enablement gap", data readiness plateaus, product-market fit in early startup stages, and future predictions for Enterprise AI.
 *   **[Enterprise AI Books](./ENTERPRISE_AI_BOOKS.md)**
     *   A curated reading list covering essential theoretical frameworks, practical adoption strategies, economic models, and ethical considerations necessary for a successful enterprise AI transformation.
+*   **[Enterprise Network Observability](./ENTERPRISE_NETWORK_OBSERVABILITY.md)**
+    *   A comprehensive architectural guide and resource list focusing on migrating from reactive network monitoring to proactive Network Observability, highlighting case studies, books, YouTube channels, and day-to-day operation recommendations.
 
 ---
 _Repository established to track business intelligence, adoption guidelines, and technical strategies surrounding AI scaling in enterprise software and operations._
